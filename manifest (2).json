@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "coaching centre app 1",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "coaching centre",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
